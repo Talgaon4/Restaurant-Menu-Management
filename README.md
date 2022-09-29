@@ -5,11 +5,15 @@ The purpose of the exercise is to practice multi-threaded process and multi-proc
 
 ## Features
 
-The idea of the application is to build a menu for a restaurant and functions for ordering and printing.
-The user will build the menu by entering dishes and details about them. In addition, the user will be able to create a new order in his name,
+The idea of the application is to build a menu for a restaurant and functions for ordering and printing as an Advanced shell.
+The user will build the menu by entering dishes name and price. In addition, the customer will be able to create a new order with his name,
 get the price of a certain dish from the menu, print the menu and more.
-Moreover, we have added additional advanced shell functions that do not exist in the original shell
+
+
+![restaurant](https://user-images.githubusercontent.com/96999217/193019699-35aa1127-0833-453a-b75b-9d50c22c090a.gif)
+
 
 ## Run
 
-To run the application, download all the files and run **Advanced_shell.sh**
+To run the application, download all the files and run **Advanced_shell_sc.sh**
+
