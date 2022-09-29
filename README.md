@@ -10,7 +10,7 @@ The user will build the menu by entering dishes name and price. In addition, the
 get the price of a certain dish from the menu, print the menu and more.
 
 
-![restaurant](https://user-images.githubusercontent.com/96999217/193019699-35aa1127-0833-453a-b75b-9d50c22c090a.gif)
+![restaurant](https://user-images.githubusercontent.com/96999217/193020539-bb7c9743-a60b-4f10-9117-c3fa92617421.gif)
 
 
 ## Run
